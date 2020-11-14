@@ -10,8 +10,12 @@ on your terminal, git bash or powershell (it depends on your operating system). 
 ## Demo
 This project is deployed [here](https://franciscog98.github.io/BreakingBadApp2/ "here")
 
+**HOME**
+![](https://github.com/franciscoG98/BreakingBadApp2/blob/main/src/img/home.png)
+
+
 ## About
-The Breaking Bad API has a lot of functionalities that i would like to try. I will make little projects like this one and then combine them together to do a bigger and more complex web app. This was done with 
+The Breaking Bad API has a lot of functionalities that i would like to try. I will make little projects like this one and then combine them together to do a bigger and more complex web app.
 
 
 ## Documentation
