@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BreakingBadApp2/static/css/main.7d0dfe89.chunk.css",
+    "main.js": "/BreakingBadApp2/static/js/main.0245970b.chunk.js",
+    "main.js.map": "/BreakingBadApp2/static/js/main.0245970b.chunk.js.map",
+    "runtime-main.js": "/BreakingBadApp2/static/js/runtime-main.b588e09b.js",
+    "runtime-main.js.map": "/BreakingBadApp2/static/js/runtime-main.b588e09b.js.map",
+    "static/js/2.a999592b.chunk.js": "/BreakingBadApp2/static/js/2.a999592b.chunk.js",
+    "static/js/2.a999592b.chunk.js.map": "/BreakingBadApp2/static/js/2.a999592b.chunk.js.map",
+    "index.html": "/BreakingBadApp2/index.html",
+    "static/css/main.7d0dfe89.chunk.css.map": "/BreakingBadApp2/static/css/main.7d0dfe89.chunk.css.map",
+    "static/js/2.a999592b.chunk.js.LICENSE.txt": "/BreakingBadApp2/static/js/2.a999592b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/BreakingBadApp2/static/media/bg.085908ea.jpg",
+    "static/media/logo.e6ecab44.png": "/BreakingBadApp2/static/media/logo.e6ecab44.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b588e09b.js",
+    "static/js/2.a999592b.chunk.js",
+    "static/css/main.7d0dfe89.chunk.css",
+    "static/js/main.0245970b.chunk.js"
+  ]
+}
