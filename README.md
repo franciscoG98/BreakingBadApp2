@@ -1,7 +1,9 @@
 # Breaking Bad App
 
 ## Instalation
-To work on this repository first of all you should clonate it with `git clone https://github.com/franciscoG98/BreakingBadApp2.git` on your terminal, git bash or powershell (it depends on your operating system). You will also need to install [node.js](http://https://nodejs.org/es/download/ "node.js").
+To work on this repository first of all you should clonate it with
+`git clone https://github.com/franciscoG98/BreakingBadApp2.git`
+on your terminal, git bash or powershell (it depends on your operating system). You will also need to install [node.js](http://https://nodejs.org/es/download/ "node.js").
 - `npm install` to install the dependencies
 - `npm start` to run the project
 
