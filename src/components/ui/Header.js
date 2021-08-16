@@ -1,22 +1,17 @@
 import React from 'react';
-import {jest} from '@jest/globals';
-// import logo from '../../img/logo.png';
+// import {jest} from '@jest/globals';
+import logo from '../../img/logo.png';
 
-// const Header = () => {
-//     return (
-//         <header className='center'>
-//             {/* <img src={logo} alt='Brx    eaking Bad Logo' /> */}
-//             <h1>Breaking Bad Character Search</h1>
-//         </header>
-//     )
-// }
-
-jest.useFakeTimers();
-
+// jest.useFakeTimers();
 
 const Header = () =>{
     return (
-        <h1 data-testid="required-header" required>Breaking Bad Character Search</h1>
+        <>
+            <header className='center'>
+                <img src={logo} alt='Breaking Bad Logo' />
+                <h1 data-testid="required-header" id='text required-header' required>Breaking Bad App 2</h1>
+            </header>
+        </>
     )
 }
 
