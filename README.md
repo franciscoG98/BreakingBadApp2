@@ -43,8 +43,6 @@ npm test
 ## Deploy
 This project is deployed with [Github-Pages](https://pages.github.com/ "github pages") [here](https://franciscog98.github.io/BreakingBadApp2/ "here")
 
-## Test
-
 
 ## Documentation
 - [Breaking Bad API Documentation](https://breakingbadapi.com/documentation/ "Breaking Bad API Documentation")
