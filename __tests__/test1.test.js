@@ -13,9 +13,10 @@ import {
 // adds special assertions like toHaveTextContent
 import '@testing-library/jest-dom'
 import { Header } from "../src/components/ui/Header.js";
-import { Search } from "../src/components/ui/Search";
-// import App from '../src/App';
+// import { Search } from "../src/components/ui/Search";
+// import {App} from '../src/App';
 
+beforeEach(() => render(Header));
 
 describe("BreakingBadApp2", () => {
   it('the header should be render', () => {
@@ -26,16 +27,13 @@ describe("BreakingBadApp2", () => {
     expect(screen.queryByText("Breaking Bad App 2")).toBeInTheDocument();
   });
   
+  it('carrito', () => {
+    expect(screen.queryByText(/carrito/i)).toBeInTheDocument();
+  });
   
-  it('Header should exist', () => {
-    // render(<Header />);
-    expect(screen.queryByText(/Breaking Bad App 2/i)).toBeInTheDocument();
+  it("Has the correct title in the header", () => {
+    // const { getByTestId } = render(<Header title="Breaking Bad App 2" />);
+    const eins = getByTestId("required-header");
+    expect(eins.children[0]).toEqual("Breaking Bad App 2");
   });
 })
-
-it("Has the correct title in the header", () => {
-  // const { getByTestId } = render(<Header title="Breaking Bad App 2" />);
-  const eins = getByTestId("required-header");
-  expect(eins.children[0]).toEqual("Breaking Bad App 2");
-});
-
