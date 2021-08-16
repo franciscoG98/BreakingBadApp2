@@ -22,7 +22,9 @@ This website is a search engine of the Breaking Bad characters. The BreakingBadA
 
 ## Instalation
 To work on this project first of all you should clonate it with
-`git clone https://github.com/franciscoG98/BreakingBadApp2.git`
+```
+git clone https://github.com/franciscoG98/BreakingBadApp2.git
+```
 on your terminal/git bash/powershell/cmd (it depends on your operating system). You will also need to install [node.js](http://https://nodejs.org/es/download/ "node.js").
 
 
