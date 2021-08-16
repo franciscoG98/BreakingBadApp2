@@ -21,19 +21,18 @@ This website is a search engine of the Breaking Bad characters. The BreakingBadA
 ![home screenshot](https://github.com/franciscoG98/BreakingBadApp2/blob/main/src/img/home.png "home screenshot")
 
 ## Instalation
-To work on this project first of all you should clonate it with
+To work on this project first of all you need to have instaled [node.js](http://https://nodejs.org/es/download/ "node.js"). Then clone the repo with:
 ```
 git clone https://github.com/franciscoG98/BreakingBadApp2.git
 ```
-on your terminal/git bash/powershell/cmd (it depends on your operating system). You will also need to install [node.js](http://https://nodejs.org/es/download/ "node.js").
-
+on your terminal / git bash / powershell / cmd / vs code terminal (whatever you use). After you clone the repo run this to install dependencies 
 
 ```
 npm install
 
 ``` 
 ## Commands
-run:
+run the project:
 ```
 npm start
 ``` 
